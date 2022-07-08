@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LOCALES", [SD:] MEXICO - LAS ESTRELLAS
+http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/97
+
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES",Las Estrellas
+http://bgapp.live/play/totalp1s-700.php?k=blckghst&tokenn=blackgggghost&c=17
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="LOCALES",Canal 5
+http://bgapp.live/play/totalp1s-700.php?k=blckghst&tokenn=blackgggghost&c=20
+
+#EXTINF:-1 group-title="ENTRETENCIÓN", [HD:] ENTRE - UNIMAS
+http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/85
+
+#EXTINF:-1 group-title="Lista 22", UNIMAS
+http://bgapp.live/play/futvall-700.php?id=unimas&token=blackgggghost&f=.m3u8
+
+#EXTINF:-1 group-title="Lista 22", TLNovelas
+http://bgapp.live/play/futvall-700.php?id=tlnovelas&token=blackgggghost&dos=.m3u8
